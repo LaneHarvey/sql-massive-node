@@ -1,0 +1,5 @@
+INSERT INTO products (Name, Description, Price, Imageurl) values ('Homer Simpson', 'Homer Doll', 47.99, 'https://guideimg.alibaba.com/images/shop/2015/08/15/3/homer-simpson-11-doll-with-vinyl-head-from-burger-king_7726303.jpeg');
+INSERT INTO products (Name, Description, Price, Imageurl) values ('Marge', 'Marge Doll', 47.99, 'https://ae01.alicdn.com/kf/HTB1CfEXIFXXXXcJXFXXq6xXFXXXE/5-PCS-Lot-Plush-Anime-Cartoon-The-Simpsons-font-b-Marge-b-font-font-b-Simpson.jpg');
+INSERT INTO products (Name, Description, Price, Imageurl) values ('Bart', 'Bart Doll', 10.66, 'https://ae01.alicdn.com/kf/HTB1Zbz9KpXXXXXSXVXXq6xXFXXXV/Anime-Cartoon-The-font-b-Simpson-b-font-font-b-Bart-b-font-font-b-Simpson.jpg');
+INSERT INTO products (Name, Description, Price, Imageurl) values ('Lisa', 'Lisa Doll', 8.77, 'http://www.cuddlycollectibles.com/Movies%20and%20Television/The%20Simpsons/AP45710LisaPlush.jpg');
+INSERT INTO products (Name, Description, Price, Imageurl) values ('Maggie', 'Maggie Doll', 1.01, 'https://images-na.ssl-images-amazon.com/images/I/41J8bCKVmBL.jpg');
