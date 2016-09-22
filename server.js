@@ -23,7 +23,7 @@ app.post('/products', productCtrl.create);
 
 app.delete('/products/:id', productCtrl.delete);
 
-var port = 3000;
+var port = 5432;
 app.listen(port, function() {
   console.log("Successfuly Listening on port: " + port);
 });
